@@ -1,9 +1,9 @@
 
 # Guest List
-|  | # |
-| ---- | ---- |
-| Boys |  |
-| Girls |  |
+|       | #   |
+| ----- | --- |
+| Boys  |     |
+| Girls |     |
 
 
 ---
@@ -11,54 +11,54 @@
 
 ### Definitely
 
-* [ ] John
-* [ ] Henry
-* [ ] Reuben
+* [x] John
+* [x] Henry
+* [x] Reuben
 * [ ] Zac
 
-* [ ] Abbie
+* [ ] ~~Abbie~~
 * [ ] Frisbee
 * [ ] ~~BenCullen~~
-* [ ] Olly
-* [ ] MaxPinder
-* [ ] Camiel
-* [ ] Danny
-* [ ] AnnaBillinge
+* [x] Olly
+* [x] MaxPinder
+* [x] Camiel
+* [x] Danny
+* [x] AnnaBillinge
 
-* [ ] Lourenco
+* [x] Lourenco
 * [x] Ioan
-* [ ] Patrick
+* [x] Patrick
 * [x] Dev
-* [ ] Hewitt
+* [x] Hewitt
 * [ ] Callum
 * [x] EmilyGoater
 
-* [ ] Louisa
-* [ ] Maia
+* [x] Louisa
+* [x] Maia
 * [x] Rosie
 * [x] Lucy
-* [ ] Lilly
+* [x] Lilly
 * [x] Frannington
-* [ ] Ewan
+* [x] Ewan
 * [x] Molly
 * [x] Sky
 
 * [x] Yesh
 * [x] LillyFromYesh
-* [ ] (Finn?)
+* [x] (Finn?)
 
 * [ ] ~~Maisie~~
-* [ ] Beatrix
-* [ ] Sophie
+* [x] Beatrix
+* [x] Sophie
 
-* [ ] Ella
-* [ ] Erin
-* [ ] Serena
-* [ ] Jack
-* [ ] Matt
-* [ ] Kam
-* [ ] Will
-* [ ] Alex
+* [x] Ella
+* [x] Erin
+* [x] Serena
+* [x] Jack
+* [x] Matt
+* [x] Kam
+* [x] Will
+* [ ] ~~Alex~~
 
 * [ ] Gomes
 * [x] Mia
@@ -70,28 +70,28 @@
 ### Definitely
 
 * [x] Matilde
-* [ ] Elise
-* [ ] Topsy
-* [ ] Jams
-* [ ] Romy
-* [ ] Katie
+* [x] Elise
+* [ ] ~~Topsy~~
+* [x] Jams
+* [x] Romy
+* [x] Katie
 * [ ] Jess
 * [ ] Daisy
 * [x] Boris
-* [ ] Taylor
+* [x] Taylor
 
 * [x] Dhruv
 * [x] Ria
-* [ ] Lara
-* [ ] Marianne
-* [ ] Jasmine
-* [ ] Katy
-* [ ] Dennis
-* [ ] Eray
-* [ ] Josh
-* [ ] Laurie
-* [ ] Kallina
-* [ ] Joel
+* [x] Lara
+* [ ] ~~Marianne~~
+* [x] Jasmine
+* [x] Katy
+* [x] Dennis
+* [x] Eray
+* [x] Josh
+* [x] Laurie
+* [x] Kallina
+* [x] Joel
 
 ---
 ## Route
@@ -105,5 +105,12 @@
 7. 256
 
 ---
-## Can't
-* [ ] Jay
+## Reassign
+* Frisbee
+* Zac
+* Henry <-> Rowan
+* Louisa
+* Patrick <-> Kate
+* Callum
+* Jack
+* Jay

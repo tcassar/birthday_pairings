@@ -49,7 +49,7 @@ def parse_file(filepath: str | pathlib.Path) -> list[Group]:
 
     p6
 
-    person1 eligible to be paired with person2 or person3
+    person1 eligible to be paired with person3 or person4
     p5 eligible to be paired with p6
     """
 
