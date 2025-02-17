@@ -14,7 +14,7 @@
 * [x] John
 * [x] Henry
 * [x] Reuben
-* [ ] Zac
+* [ ] ~~Zac~~
 
 * [ ] ~~Abbie~~
 * [ ] Frisbee
@@ -30,7 +30,7 @@
 * [x] Patrick
 * [x] Dev
 * [x] Hewitt
-* [ ] Callum
+* [ ] ~~Callum~~
 * [x] EmilyGoater
 
 * [x] Louisa
@@ -55,7 +55,7 @@
 * [x] Erin
 * [x] Serena
 * [x] Jack
-* [x] Matt
+* [ ] ~~Matt~~
 * [x] Kam
 * [x] Will
 * [ ] ~~Alex~~
