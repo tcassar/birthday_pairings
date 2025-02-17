@@ -22,3 +22,11 @@ How dare you question my integrity!
 Source code publihed in [2025/main.go](https://github.com/tcassar/birthday_pairings/blob/master/2025/main.go) (yes, its `go` this year :))
 
 
+If you have `go` installed, clone the repo, `cd 2025`, 
+
+```shell
+go run main.go ./people.txt  | jq
+```
+
+for pretty printed output with jq
+
